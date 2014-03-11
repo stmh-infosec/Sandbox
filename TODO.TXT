@@ -1,0 +1,12 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TODO.TXT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This file consists of all the activities that are planned for the current 
+and future releases.
+
+Release 1.1: Vulnerable Applications: 
+1) Vulnerable Web Application in PHP/MYSQL
+2) Vulnerable C code that may lead to command execuriton.(Level 1-Local)
+
+Release 1.2: Vulnerable Applications:
+1) Vulnerable Web Application in Django/Sqlite3
+2) Vulnerable Android Application 
